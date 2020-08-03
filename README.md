@@ -4,6 +4,11 @@ Example Flutter app that generates random pairs of words.
 
 Based on the tutorial at https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0
 
+Instructions for running the app: https://flutter.dev/docs/get-started/test-drive?tab=terminal
+
+Easiest way to run is probably to open project in VS Code and install Flutter extension.
+Choose device emulator or plug in real device and press F5.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
