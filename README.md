@@ -1,6 +1,8 @@
 # startup_namer
 
-A new Flutter project.
+Example Flutter app that generates random pairs of words.
+
+Based on the tutorial at https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0
 
 ## Getting Started
 
