@@ -9,6 +9,8 @@ Instructions for running the app: https://flutter.dev/docs/get-started/test-driv
 Easiest way to run is probably to open project in VS Code and install Flutter extension.
 Choose device emulator or plug in real device and press F5.
 
+(NOTE: You will need to have Flutter installed to run the app, https://flutter.dev/docs/get-started/install)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
